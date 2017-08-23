@@ -1,0 +1,15 @@
+This Ticket Being Generated as You Confirm
+
+Name    : abdallah
+
+Movie   : Trazan
+
+Location: KLCC
+
+Time    : 11PM-1PM
+
+Threator    : 3
+
+Seats   : [A-6, E-1]
+
+UniqueID: Trazan11PM-1PMKLCCabdallah

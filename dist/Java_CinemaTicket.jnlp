@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Java_CinemaTicket.jnlp">
+  <information>
+    <title>Java_CinemaTicket</title>
+    <vendor>abdallahrizk</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Java_CinemaTicket.jar" size="25435" download="eager" />
+    <jar href="lib/mysql-connector-java-5.1.23-bin.jar" size="834091" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Java_CinemaTicket" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="java_cinematicket.Java_CinemaTicket"  name="Java_CinemaTicket" />
+  <update check="always"/>
+</jnlp>
